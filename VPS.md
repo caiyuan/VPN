@@ -3,7 +3,7 @@
 
 ## Amazon Lightsail
 
-https://www.amazonlightsail.com/
+https://lightsail.aws.amazon.com/
 
 ### CentOS
 
@@ -20,3 +20,6 @@ sudo reboot
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 
+## Cloudflare
+
+https://dash.cloudflare.com/
