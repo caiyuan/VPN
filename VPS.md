@@ -7,6 +7,12 @@ https://lightsail.aws.amazon.com/
 
 ### CentOS
 
+#### Attach static IP
+
+```
+Select a static IP to attach | Attach
+```
+
 #### IPv4 Firewall
 
 ```
