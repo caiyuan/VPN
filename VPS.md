@@ -35,3 +35,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ## Cloudflare
 
 https://dash.cloudflare.com/
+
+## See
+
+https://zh.wikipedia.org/zh-cn/V2Ray
