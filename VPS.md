@@ -7,13 +7,13 @@ https://lightsail.aws.amazon.com/
 
 ### CentOS
 
-#### Attach static IP
+#### Attach static IP (optional)
 
 ```
 Select a static IP to attach | Attach
 ```
 
-#### IPv4 Firewall
+#### IPv4 Firewall (optional)
 
 ```
 Add rule | All protocols | Create
