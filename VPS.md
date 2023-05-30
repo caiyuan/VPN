@@ -42,4 +42,4 @@ https://dash.cloudflare.com/
 
 ## See
 
-https://www.youtube.com/watch?v=Stdj6U568S0
+https://v2rayssr.com/teach-vless.html
