@@ -7,6 +7,12 @@ https://lightsail.aws.amazon.com/
 
 ### CentOS
 
+#### IPv4 Firewall
+
+```
+Add rule | All protocols | Create
+```
+
 #### use root
 ```sh
 echo root:password | sudo chpasswd root
