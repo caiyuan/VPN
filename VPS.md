@@ -35,3 +35,11 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ## Cloudflare
 
 https://dash.cloudflare.com/
+
+
+
+
+
+## See
+
+https://www.youtube.com/watch?v=Stdj6U568S0
