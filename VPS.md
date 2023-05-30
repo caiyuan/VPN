@@ -19,15 +19,15 @@ Select a static IP to attach | Attach
 Add rule | All protocols | Create
 ```
 
-#### use root
+#### Use Root
 ```sh
-echo root:password | sudo chpasswd root
+echo root:123456 | sudo chpasswd root
 sudo sed -i 's/^#\?PermitRootLogin.*/PermitRootLogin yes/g' /etc/ssh/sshd_config
 sudo sed -i 's/^#\?PasswordAuthentication.*/PasswordAuthentication yes/g' /etc/ssh/sshd_config
 sudo reboot
 ```
 
-#### install x-ui
+#### Install X-UI
 ```sh
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
