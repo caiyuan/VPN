@@ -1,1 +1,1 @@
-# VPS
+# [VPS](VPS.md)
