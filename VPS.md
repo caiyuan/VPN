@@ -27,7 +27,8 @@ sudo sed -i 's/^#\?PasswordAuthentication.*/PasswordAuthentication yes/g' /etc/s
 sudo reboot
 ```
 
-#### Install X-UI
+#### Install X-UI `(https://github.com/vaxilu/x-ui)`
+
 ```sh
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
