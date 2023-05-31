@@ -37,6 +37,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 https://dash.cloudflare.com/
 
 ## 
+## Preferences
 
 ### X-UI
 ![x-ui](x-ui.png)
@@ -49,6 +50,7 @@ https://dash.cloudflare.com/
 ![cf04](cf04.png)
 ![cf03](cf03.png)
 
+## 
 ## See
 
 https://zh.wikipedia.org/zh-cn/V2Ray
