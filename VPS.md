@@ -53,5 +53,5 @@ https://dash.cloudflare.com/
 
 https://zh.wikipedia.org/zh-cn/V2Ray
 
-- https://xtls.github.io/
+- https://xtls.github.io/ ✔
 - https://www.v2fly.org/
