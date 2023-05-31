@@ -1,11 +1,11 @@
 
 # VPS
 
-## Amazon Lightsail
+## Amazon AWS
 
-https://lightsail.aws.amazon.com/
+https://console.aws.amazon.com
 
-### CentOS
+### CentOS `(Amazon Lightsail)`
 
 #### Attach static IP (optional)
 
