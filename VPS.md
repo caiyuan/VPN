@@ -7,13 +7,13 @@ https://console.aws.amazon.com
 
 ### Lightsail Instances | Networking
 
-#### Attach static IP (optional)
+#### Attach static IP
 
 ```
 Select a static IP to attach | Attach
 ```
 
-#### IPv4 Firewall (optional)
+#### IPv4 Firewall
 
 ```
 Add rule | All protocols | Create
