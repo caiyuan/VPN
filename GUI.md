@@ -6,6 +6,7 @@
 ### [Linux](https://snapcraft.io/v2raya)
 
 ##### [Ubuntu](https://snapcraft.io/install/v2raya/ubuntu)
+
 ```sh
 sudo apt update
 sudo apt install snapd
@@ -15,6 +16,7 @@ sudo snap install v2raya
 ***note** : not support tls & xtls.*
 
 ##### [Debian](https://snapcraft.io/install/v2raya/debian)
+
 ```sh
 sudo apt update
 sudo apt install snapd
