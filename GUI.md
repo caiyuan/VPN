@@ -17,4 +17,3 @@ sudo snap install v2raya
 ## See
 
 [Xray-core](https://github.com/XTLS/Xray-core#gui-clients)
-
