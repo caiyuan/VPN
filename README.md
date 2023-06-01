@@ -1,3 +1,3 @@
 # [VPS](VPS.md)
 
-## [GUI](GUI.md)
+[`GUI CLIENTS`](GUI.md)
