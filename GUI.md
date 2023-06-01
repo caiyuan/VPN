@@ -3,8 +3,6 @@
 
 ## [v2rayA](https://v2raya.org/)
 
-*note : not support tls & xtls.*
-
 ### [Linux](https://snapcraft.io/v2raya)
 
 ##### [Ubuntu](https://snapcraft.io/install/v2raya/ubuntu)
@@ -14,6 +12,7 @@ sudo apt install snapd
 
 sudo snap install v2raya
 ```
+***note** : not support tls & xtls.*
 
 ##### [Debian](https://snapcraft.io/install/v2raya/debian)
 ```sh
