@@ -7,17 +7,25 @@ https://console.aws.amazon.com
 
 ### Lightsail Instances | Networking
 
-#### Attach static IP
+#### Attach static IP (optional)
 
 ```
 Select a static IP to attach | Attach
 ```
 
-#### IPv4 Firewall
+#### IPv4 Firewall (optional)
 
 ```
 Add rule | All protocols | Create
 ```
+
+*OR*
+
+| Application | Protocol | Port or range / Code |
+| ---- | ---- | ---- |
+| SSH | TCP | 22 |
+| HTTP | TCP | 80 |
+| HTTPS | TCP | 443 |
 
 ### CentOS
 
