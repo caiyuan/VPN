@@ -5,7 +5,7 @@
 
 https://v2raya.org/
 
-#### Install v2raya on Ubuntu
+#### Debian / Ubuntu
 
 ```sh
 sudo snap install v2raya
