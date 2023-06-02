@@ -30,10 +30,19 @@ Add rule | All protocols | Create
 #### [X-UI](https://github.com/vaxilu/x-ui)
 
 ```sh
+chmod 600 LightsailDefaultKey.pem
+ssh -i ./LightsailDefaultKey.pem username@ip
+
+sudo -i
+```
+*OR*
+```sh
 echo root:123456 | sudo chpasswd root
 sudo sed -i 's/^#\?PermitRootLogin.*/PermitRootLogin yes/g' /etc/ssh/sshd_config
 sudo sed -i 's/^#\?PasswordAuthentication.*/PasswordAuthentication yes/g' /etc/ssh/sshd_config
 sudo reboot
+
+ssh root@ip
 ```
 
 ```sh
