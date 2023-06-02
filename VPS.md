@@ -1,9 +1,7 @@
 
 # VPS
 
-## Amazon AWS
-
-https://console.aws.amazon.com
+## [Amazon AWS](https://console.aws.amazon.com)
 
 ### Lightsail Instances | Networking
 
@@ -50,9 +48,9 @@ sudo reboot
 sudo apt update && sudo apt install curl && sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)"
 ```
 
-## Cloudflare
+## [Cloudflare](https://dash.cloudflare.com/)
 
-https://dash.cloudflare.com/
+~
 
 ## See
 
