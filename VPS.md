@@ -56,10 +56,10 @@ https://dash.cloudflare.com/
 
 ## See
 
-https://zh.wikipedia.org/zh-cn/V2Ray
-
-- https://xtls.github.io/ ✔
-- https://www.v2fly.org/
+- https://zh.wikipedia.org/zh-cn/V2Ray
+  - https://xtls.github.io/ ✔
+  - https://www.v2fly.org/
+- https://hiddify.com/en/
 
 ##
 ##
