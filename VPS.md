@@ -35,7 +35,9 @@ ssh -i ./LightsailDefaultKey.pem username@ip
 
 sudo -i
 ```
+
 *OR*
+
 ```sh
 echo root:123456 | sudo chpasswd root
 sudo sed -i 's/^#\?PermitRootLogin.*/PermitRootLogin yes/g' /etc/ssh/sshd_config
