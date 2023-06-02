@@ -15,7 +15,7 @@ sudo apt install snapd
 
 sudo snap install v2raya
 ```
-***note** : not support tls & xtls.*
+***note** : ~~not support tls & xtls~~ .*
 
 ##### [Debian](https://snapcraft.io/install/v2raya/debian)
 
