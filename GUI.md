@@ -27,6 +27,9 @@ sudo snap install core
 sudo snap install v2raya
 ```
 
+
 ## See
 
-[Xray-core](https://github.com/XTLS/Xray-core#gui-clients)
+[Xray](https://github.com/XTLS/Xray-core#gui-clients)
+
+[GeoIP `(IP Geolocation)`](https://www.maxmind.com/) 
