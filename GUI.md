@@ -7,6 +7,8 @@
 
 ### [Linux](https://snapcraft.io/v2raya)
 
+[***`v2rayA.sh 🚀`***](v2rayA.sh)
+
 ##### [Ubuntu](https://snapcraft.io/install/v2raya/ubuntu)
 
 ```sh
