@@ -15,7 +15,6 @@ sudo apt install snapd
 
 sudo snap install v2raya
 ```
-***note** : ~~not support tls & xtls~~ .*
 
 ##### [Debian](https://snapcraft.io/install/v2raya/debian)
 
@@ -27,6 +26,24 @@ sudo snap install core
 sudo snap install v2raya
 ```
 
+***note :*** 
+
+```sh
+# snap services
+snap stop --disable v2raya
+
+# iptables
+apt install iptables -y
+```
+
+```sh
+#!/bin/sh
+
+V2RAYA_HOME="/snap/v2raya/current"
+"$V2RAYA_HOME/usr/bin/v2raya" \
+       --v2ray-bin "$V2RAYA_HOME/usr/local/bin/v2ray" \
+       --address "0.0.0.0:2017" &
+```
 
 ## See
 
