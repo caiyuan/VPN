@@ -1,6 +1,6 @@
 #!/bin/sh
 
-### Custom Installation
+### Custom Installation for Ubuntu
 
 ###
 
