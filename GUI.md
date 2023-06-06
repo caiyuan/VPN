@@ -36,3 +36,8 @@ sudo snap install v2raya
 
 - [GeoIP `(IP Geolocation)`](https://www.maxmind.com/) 
 - [IP Test](http://ip111.cn)
+
+~
+
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+- [GFWList](https://github.com/gfwlist/gfwlist)
