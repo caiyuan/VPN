@@ -28,6 +28,10 @@ sudo snap install core
 sudo snap install v2raya
 ```
 
+## [Outline](https://getoutline.org/zh-CN/)
+
+Access to the free and open Internet.
+
 ## See
 
 - [Xray](https://github.com/XTLS/Xray-core#gui-clients)
