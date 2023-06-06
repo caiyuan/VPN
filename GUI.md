@@ -40,4 +40,4 @@ sudo snap install v2raya
 ~
 
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
-- [GFWList](https://github.com/gfwlist/gfwlist)
+- [GFWlist](https://github.com/gfwlist/gfwlist)
