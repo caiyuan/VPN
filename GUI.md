@@ -34,8 +34,11 @@ sudo snap install v2raya
 
 ~
 
+- IP [*`Test 1`*](http://ip111.cn) [*`Test 2`*](http://ip125.com/)
+
+~
+
 - [GeoIP](https://www.maxmind.com/) *`(IP Geolocation)`*
-- [IP Test](http://ip111.cn)
 
 ~
 
