@@ -34,10 +34,10 @@ sudo snap install v2raya
 
 ~
 
-- [GeoIP](https://www.maxmind.com/) `(IP Geolocation)`
+- [GeoIP](https://www.maxmind.com/) *`(IP Geolocation)`*
 - [IP Test](http://ip111.cn)
 
 ~
 
-- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) [*`(Site)`*](https://proxy-switchyomega.com/)
 - [GFW List](https://github.com/gfwlist/gfwlist)
