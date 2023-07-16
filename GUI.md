@@ -7,9 +7,11 @@
 
 ### [Linux](https://snapcraft.io/v2raya)
 
-[***`v2rayA.sh 🚀`***](v2rayA.sh)
+- One-click deploy ✔️
 
-##### [Ubuntu](https://snapcraft.io/install/v2raya/ubuntu)
+[***`🚀 v2rayA.sh`***](v2rayA.sh)
+
+- Ubuntu
 
 ```sh
 sudo apt update
@@ -18,7 +20,7 @@ sudo apt install snapd
 sudo snap install v2raya
 ```
 
-##### [Debian](https://snapcraft.io/install/v2raya/debian)
+- Debian
 
 ```sh
 sudo apt update
