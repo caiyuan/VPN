@@ -9,7 +9,7 @@
 
 - One-click deploy ✔️
 
-[***`🚀 v2rayA.sh`***](v2rayA.sh)
+  [***`🚀 v2rayA.sh`***](v2rayA.sh)
 
 - Ubuntu
 
