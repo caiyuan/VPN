@@ -1,5 +1,5 @@
 
-# VPS
+# Server
 
 ## [Amazon AWS](https://console.aws.amazon.com)
 
