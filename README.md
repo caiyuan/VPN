@@ -1,3 +1,5 @@
-# [VPS](VPS.md)
+# VPS
 
-[`GUI CLIENTS`](GUI.md)
+#### [`Server`](Server.md)
+
+#### [`Client`](Client.md)
