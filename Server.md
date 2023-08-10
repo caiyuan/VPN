@@ -17,7 +17,7 @@ Select a static IP to attach | Attach
 Add rule | All protocols | Create
 ```
 
-*OR*
+*or*
 
 | Application | Protocol | Port or range / Code |
 | ---- | ---- | ---- |
@@ -25,9 +25,7 @@ Add rule | All protocols | Create
 | HTTP | TCP | 80 |
 | HTTPS | TCP | 443 |
 
-### CentOS
-
-#### [X-UI](https://github.com/vaxilu/x-ui)
+#### SSH
 
 ```sh
 chmod 600 LightsailDefaultKey.pem
@@ -36,7 +34,7 @@ ssh -i ./LightsailDefaultKey.pem username@ip
 sudo -i
 ```
 
-*OR*
+*or*
 
 ```sh
 echo root:123456 | sudo chpasswd root
@@ -47,8 +45,12 @@ sudo reboot
 ssh root@ip
 ```
 
+### CentOS
+
+#### [X-UI](https://github.com/vaxilu/x-ui)
+
 ```sh
-# bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+sudo bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```
 
 ### Ubuntu
