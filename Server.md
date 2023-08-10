@@ -59,6 +59,11 @@ ssh root@ip
 sudo apt update && sudo apt install curl && sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)"
 ```
 
+```sh
+cd /opt/hiddify-config
+sudo bash menu.sh
+```
+
 ## [Cloudflare](https://dash.cloudflare.com/)
 
 ~
