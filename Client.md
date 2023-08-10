@@ -1,5 +1,5 @@
 
-# GUI CLIENTS
+# Client
 
 ## [v2rayA](https://v2raya.org/)
 
