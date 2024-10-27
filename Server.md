@@ -58,7 +58,7 @@ sudo bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/instal
 #### [Hiddify](https://github.com/hiddify/hiddify-config)
 
 ```sh
-sudo apt update && sudo apt install curl && sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/hiddify/hiddify-config/main/common/download_install.sh)"
+sudo apt update && sudo apt install curl && sudo bash -c "$(curl -Lfo- https://i.hiddify.com/release)"
 ```
 
 ```sh
