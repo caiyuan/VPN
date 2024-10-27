@@ -62,7 +62,7 @@ sudo apt update && sudo apt install curl && sudo bash -c "$(curl -Lfo- https://i
 ```
 
 ```sh
-cd /opt/hiddify-config
+cd /opt/hiddify-manager/
 sudo bash menu.sh
 ```
 
