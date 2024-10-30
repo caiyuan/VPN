@@ -30,11 +30,6 @@ sudo snap install v2raya
 ```
 
 
-## [Outline](https://getoutline.org/zh-CN/)
-
-Access to the free and open Internet.
-
-
 ## See
 
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
