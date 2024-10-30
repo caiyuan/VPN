@@ -1,17 +1,20 @@
 
 # Client
 
+
 ## [v2rayA](https://v2raya.org/)
 
 `Web GUI : http://127.0.0.1:2017/`
 
-### [Linux](https://snapcraft.io/v2raya)
+#### [Docs](https://v2raya.org/docs/)
 
-- One-click deploy ✔️
+- [Install](https://v2raya.org/docs/prologue/installation/)
 
-  [***`🚀 v2rayA.sh`***](v2rayA.sh)
+  - [***`Alpine Linux`***](https://v2raya.org/docs/prologue/installation/alpine/)
 
-- Ubuntu
+#### [Snapcraft](https://snapcraft.io/v2raya)
+
+- Ubuntu (One-click deploy [***`🚀 v2rayA.sh`***](v2rayA.sh))
 
 ```sh
 sudo apt update
@@ -20,19 +23,11 @@ sudo apt install snapd
 sudo snap install v2raya
 ```
 
-- Debian
-
-```sh
-sudo apt update
-sudo apt install snapd
-sudo snap install core
-
-sudo snap install v2raya
-```
 
 ## [Outline](https://getoutline.org/zh-CN/)
 
 Access to the free and open Internet.
+
 
 ## See
 
