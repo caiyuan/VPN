@@ -48,5 +48,5 @@ Access to the free and open Internet.
 
 ~
 
-- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) [*`(Site)`*](https://proxy-switchyomega.com/)
-- [GFW List](https://github.com/gfwlist/gfwlist)
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+- [dist-v2ray-rules-dat](https://github.com/v2rayA/dist-v2ray-rules-dat)
