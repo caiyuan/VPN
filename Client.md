@@ -4,6 +4,8 @@
 
 ## [v2rayA](https://v2raya.org/)
 
+An easy-to-use and powerful V2Ray client focusing on Linux.
+
 `Web GUI : http://127.0.0.1:2017/`
 
 #### [Docs](https://v2raya.org/docs/)
@@ -14,12 +16,16 @@
 
 #### [Snapcraft](https://snapcraft.io/v2raya)
 
-- Ubuntu (One-click deploy [***`🚀 v2rayA.sh`***](v2rayA.sh))
+- [Ubuntu](https://snapcraft.io/install/v2raya/ubuntu)
+
+  - One-click deploy [***`🚀 v2rayA.sh`***](v2rayA.sh)
 
 ```sh
+# Enable snapd
 sudo apt update
 sudo apt install snapd
 
+# Install v2raya
 sudo snap install v2raya
 ```
 
@@ -31,11 +37,8 @@ Access to the free and open Internet.
 
 ## See
 
-- [Xray](https://github.com/XTLS/Xray-core#gui-clients)
-
-~
-
-- IP [*`Test 1`*](http://ip111.cn) [*`Test 2`*](http://ip125.com/)
+- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+- [dist-v2ray-rules-dat](https://github.com/v2rayA/dist-v2ray-rules-dat)
 
 ~
 
@@ -43,5 +46,8 @@ Access to the free and open Internet.
 
 ~
 
-- [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
-- [dist-v2ray-rules-dat](https://github.com/v2rayA/dist-v2ray-rules-dat)
+- IP [*`Test 1`*](http://ip111.cn) [*`Test 2`*](http://ip125.com/)
+
+~
+
+- [Xray](https://github.com/XTLS/Xray-core#gui-clients)
