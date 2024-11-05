@@ -29,17 +29,3 @@ cd /opt/hiddify-manager && sudo bash menu.sh
 ## [Cloudflare](https://dash.cloudflare.com/)
 
 ~
-
-
-## Option
-
-### X-UI
-![x-ui](x-ui.png)
-![x-ui01](x-ui01.png)
-![x-ui02](x-ui02.png)
-
-### Cloudflare
-![cf01](cf01.png)
-![cf02](cf02.png)
-![cf04](cf04.png)
-![cf03](cf03.png)
