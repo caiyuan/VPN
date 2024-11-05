@@ -31,14 +31,6 @@ cd /opt/hiddify-manager && sudo bash menu.sh
 ~
 
 
-## See
-
-- https://zh.wikipedia.org/zh-cn/V2Ray
-  - https://xtls.github.io/ ✔
-  - https://www.v2fly.org/
-- https://hiddify.com/en/
-
-
 ## Option
 
 ### X-UI
