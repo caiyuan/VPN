@@ -9,6 +9,10 @@
 sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)"
 ```
 
+```sh
+sudo x-ui
+```
+
 ### Ubuntu
 
 #### [Hiddify](https://github.com/hiddify/hiddify-config)
