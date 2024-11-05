@@ -14,9 +14,9 @@ An easy-to-use and powerful V2Ray client focusing on Linux.
 
   - [Alpine Linux](https://v2raya.org/docs/prologue/installation/alpine/)
 
-  - Ubuntu [***`(Snapcraft)`***](https://snapcraft.io/v2raya)
+  - Ubuntu [*`(Snapcraft)`*](https://snapcraft.io/v2raya)
 
-    - One-click deploy [***`🚀 v2rayA.sh`***](v2rayA.sh)
+    - *One-click deploy* [*`🚀 v2rayA.sh`*](v2rayA.sh)
 
 ```sh
 # Ubuntu
