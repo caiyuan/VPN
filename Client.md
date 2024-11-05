@@ -12,20 +12,20 @@ An easy-to-use and powerful V2Ray client focusing on Linux.
 
 - [Install](https://v2raya.org/docs/prologue/installation/)
 
-  - [***`Alpine Linux`***](https://v2raya.org/docs/prologue/installation/alpine/)
+  - [Alpine Linux](https://v2raya.org/docs/prologue/installation/alpine/)
 
-#### [Snapcraft](https://snapcraft.io/v2raya)
+  - Ubuntu [***`(Snapcraft)`***](https://snapcraft.io/v2raya)
 
-- [Ubuntu](https://snapcraft.io/install/v2raya/ubuntu)
-
-  - One-click deploy [***`🚀 v2rayA.sh`***](v2rayA.sh)
+    - One-click deploy [***`🚀 v2rayA.sh`***](v2rayA.sh)
 
 ```sh
-# Enable snapd
+# Ubuntu
+
+## Enable snapd
 sudo apt update
 sudo apt install snapd
 
-# Install v2raya
+## Install v2raya
 sudo snap install v2raya
 ```
 
