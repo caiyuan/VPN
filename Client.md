@@ -12,7 +12,7 @@ An easy-to-use and powerful V2Ray client focusing on Linux.
 
 - [Install](https://v2raya.org/docs/prologue/installation/)
 
-  - [Alpine Linux](https://v2raya.org/docs/prologue/installation/alpine/)
+  - [**Alpine Linux**](https://v2raya.org/docs/prologue/installation/alpine/)
 
   - Ubuntu [*`(Snapcraft)`*](https://snapcraft.io/v2raya)
 
