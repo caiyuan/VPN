@@ -50,7 +50,7 @@ ssh root@ip
 #### [X-UI](https://github.com/vaxilu/x-ui)
 
 ```sh
-sudo bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)"
 ```
 
 ### Ubuntu
