@@ -13,6 +13,13 @@ sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/vaxilu/x-ui/master/
 sudo x-ui
 ```
 
+- SSL
+
+```sh
+sudo apt install certbot
+sudo certbot certonly --standalone -d yourdomain.com
+```
+
 #### 2. [Hiddify](https://github.com/hiddify/hiddify-config)
 
 ```sh
