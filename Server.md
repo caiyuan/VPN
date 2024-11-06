@@ -1,9 +1,9 @@
 
 ## Server
 
-### CentOS
+### Ubuntu
 
-#### [X-UI](https://github.com/vaxilu/x-ui)
+#### 1. [X-UI](https://github.com/vaxilu/x-ui)
 
 ```sh
 sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)"
@@ -13,9 +13,7 @@ sudo bash -c "$(curl -Lfo- https://raw.githubusercontent.com/vaxilu/x-ui/master/
 sudo x-ui
 ```
 
-### Ubuntu
-
-#### [Hiddify](https://github.com/hiddify/hiddify-config)
+#### 2. [Hiddify](https://github.com/hiddify/hiddify-config)
 
 ```sh
 sudo apt update && sudo apt install curl && sudo bash -c "$(curl -Lfo- https://i.hiddify.com/release)"
