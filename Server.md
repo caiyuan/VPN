@@ -20,6 +20,10 @@ sudo apt install certbot
 sudo certbot certonly --standalone -d yourdomain.com
 ```
 
+```sh
+sudo certbot renew --standalone
+```
+
 #### 2. [Hiddify](https://github.com/hiddify/hiddify-config)
 
 ```sh
