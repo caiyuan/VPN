@@ -16,7 +16,7 @@ An easy-to-use and powerful V2Ray client focusing on Linux.
 
   - Ubuntu [*`(Snapcraft)`*](https://snapcraft.io/v2raya)
 
-    - *One-click deploy* [*`🚀 v2rayA.sh`*](v2rayA.sh)
+    - *One-click deploy* [*`🚀 v2rayA-ubuntu.sh`*](v2rayA-ubuntu.sh)
 
 ```sh
 # Ubuntu
