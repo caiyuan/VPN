@@ -35,6 +35,6 @@ cd /opt/hiddify-manager && sudo bash menu.sh
 ```
 
 
-## [Cloudflare](https://dash.cloudflare.com/)
+### Website
 
-~
+- [Cloudflare](https://dash.cloudflare.com/)
