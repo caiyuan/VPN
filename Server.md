@@ -27,7 +27,7 @@ sudo certbot renew --standalone
 #### 2. [Hiddify](https://github.com/hiddify/hiddify-config)
 
 ```sh
-sudo apt update && sudo apt install curl && sudo bash -c "$(curl -Lfo- https://i.hiddify.com/v10.80.11)"
+sudo bash -c "$(curl -Lfo- https://i.hiddify.com/v10.80.11)"
 ```
 
 ```sh
