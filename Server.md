@@ -31,6 +31,10 @@ sudo bash -c "$(curl -Lfo- https://i.hiddify.com/v10.70.9)"
 ```
 
 ```sh
+sudo hiddify
+
+or
+
 cd /opt/hiddify-manager && sudo bash menu.sh
 ```
 
